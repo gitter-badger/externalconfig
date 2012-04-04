@@ -4,3 +4,8 @@
 eclipse/
 commands.pyc
 dist/
+modules/
+precompiled/
+target/
+test-result/
+tmp/
