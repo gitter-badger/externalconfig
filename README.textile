@@ -1,5 +1,7 @@
 h1. externalconfig
 
+!https://badges.gitter.im/gslowikowski/externalconfig.svg(Join the chat at https://gitter.im/gslowikowski/externalconfig)!:https://gitter.im/gslowikowski/externalconfig?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 p(note). externalconfig is a simple plugin which allows you to load a properties/config file from anywhere on the classpath.
 
 p(note). This means that when deploying your application as a war file inside Tomcat or other application server, you can override config values from outside the war for your Production environments etc.
